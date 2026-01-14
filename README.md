@@ -1,5 +1,8 @@
 <div align="center" width="50">
 <div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=I+AM+YOUSEF+WAEL;Robotics+Engineer;Embedded+Systems+Developer;ROS+%26+AI+Enthusiast" />
+</p>
 
 [![GitHub](https://img.shields.io/badge/Yousef%20Wael-grey?style=flat&logo=github)](https://github.com/YousefElgzar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yousef%20Wael-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yousef-wael-34b037378)
